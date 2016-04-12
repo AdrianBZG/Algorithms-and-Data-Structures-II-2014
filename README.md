@@ -1,4 +1,6 @@
-# Algorithms and Data Structures (ii) C++ Codes, made by Adrian Rodriguez Bazaga.</br>
+# Algorithms and Data Structures (ii)</br>
+## Description: C++ codes from the subject "Advanced Algorithms and Data Structures"
+## Author: Adrián Rodríguez Bazaga
 ## WARNING: This codes are very old and I don't type code like this (ugly) anymore, some of my last codes are:
 ### 1. SyncMe: [Click here](https://github.com/AdrianBZG/SyncMe)
 ### 2. N Queens Problems: [Click here](https://github.com/AdrianBZG/N_Queens_Puzzle)
