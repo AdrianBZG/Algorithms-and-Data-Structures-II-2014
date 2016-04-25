@@ -1,3 +1,8 @@
+### CODE HIDDEN UNTIL JULY 2016: 
+#### Code is hidden until July 2016 due to a lot of people from the second year using them to cheat (not do the assignments, just copy mine)
+#### A lo mejor si recibe muchas Stars el código aparece otra vez automágicamente
+
+
 # Algorithms and Data Structures (ii)</br>
 ### Description: C++ codes from the subject "Advanced Algorithms and Data Structures"
 ### Author: Adrián Rodríguez Bazaga
@@ -5,7 +10,3 @@
 #### 1. SyncMe: [Click here](https://github.com/AdrianBZG/SyncMe)
 #### 2. N Queens Problems: [Click here](https://github.com/AdrianBZG/N_Queens_Puzzle)
 #### 3. RAM Machine Simulator: [Click here](https://github.com/AdrianBZG/RAM-Machine-Simulator)
-
-### CODE HIDDEN UNTIL JULY 2016: 
-#### Code is hidden until July 2016 due to a lot of people from the second year using them to cheat (not do the assignments, just copy mine)
-#### A lo mejor si recibe muchas Stars el código aparece otra vez automágicamente
