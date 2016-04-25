@@ -1,8 +1,0 @@
-EXPLICACIÓN:
-
-Se recomienda probar el programa ubicado en /numeros/src/numero el cual trabaja con punteros a Numero (Numero*), insertando
-estos punteros que apuntan a tipos de numero de las clases derivadas en las estructuras de datos creadas e imprimiendo el contenido de las mismas.
-
-COMPILACIÓN:
-
-En la carpeta /numeros/src/numero se encuentra el makefile
