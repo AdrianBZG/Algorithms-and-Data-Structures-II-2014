@@ -1,0 +1,6 @@
+EXPLICACIÓN/MODUS OPERANDI:
+
+En la lista simplemente enlazada (lista_t) se insertan nodos del tipo nodo_dato_t, los cuales están implementados como template y a su vez son una clase derivada
+del objeto nodo (el cual sólo tiene como atributo un puntero al siguiente nodo de la lista).
+
+Por lo tanto podemos insertar nodo_dato_t de cualquier tipo en la lista (nodo_dato_t<int> por ejemplo)

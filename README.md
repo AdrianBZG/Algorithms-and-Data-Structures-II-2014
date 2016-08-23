@@ -10,3 +10,11 @@
 #### 1. SyncMe: [Click here](https://github.com/AdrianBZG/SyncMe)
 #### 2. N Queens Problems: [Click here](https://github.com/AdrianBZG/N_Queens_Puzzle)
 #### 3. RAM Machine Simulator: [Click here](https://github.com/AdrianBZG/RAM-Machine-Simulator)
+
+### CONTACT: 
+#### Email: arodriba@ull.edu.es / alu0100826456@ull.edu.es
+#### LinkedIn: [https://es.linkedin.com/in/adrirodbaz](https://es.linkedin.com/in/adrirodbaz)
+#### Twitter: [@adrirodbaz](https://www.twitter.com/adrirodbaz)
+
+### INFO:
+#### Codes from year 2014
