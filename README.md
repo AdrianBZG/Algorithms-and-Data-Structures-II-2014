@@ -1,6 +1,6 @@
 ### CODE HIDDEN UNTIL JULY 2016: 
 #### Code is hidden until July 2016 due to a lot of people from the second year using them to cheat (not do the assignments, just copy mine)
-#### A lo mejor si recibo muchas Stars el código aparece de nuevo automágicamente antes de Julio 2016.
+#### A lo mejor si recibe muchas Stars el código aparece otra vez automágicamente
 
 
 # Algorithms and Data Structures (ii)</br>
