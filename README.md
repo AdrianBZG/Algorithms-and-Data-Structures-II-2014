@@ -7,10 +7,9 @@
 #### 3. RAM Machine Simulator: [Click here](https://github.com/AdrianBZG/RAM-Machine-Simulator)
 
 ### CONTACT: 
-#### Email: arodriba@ull.es
-#### Website: www.adrianbazaga.info
+#### Email: adrian@qmindgroup.com
+#### Website: www.adrianbazaga.com
 #### LinkedIn: [https://es.linkedin.com/in/adrirodbaz](https://es.linkedin.com/in/adrirodbaz)
-#### Twitter: [@adrirodbaz](https://www.twitter.com/adrirodbaz)
 
 ### INFO:
 #### Codes from year 2014
